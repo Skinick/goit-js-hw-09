@@ -20,6 +20,7 @@ img {
 .timer {
   display: flex;
   column-gap: 30px;
+  margin-left: 160px;
 }
 .field > .label {
   font-size: xx-large;
@@ -45,6 +46,8 @@ img {
   font-size: xx-large;
   font-weight: bold;
   color: green;
+
+  margin-left: 150px;
 }
 
 button {
